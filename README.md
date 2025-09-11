@@ -1,6 +1,6 @@
 <!-- ШИРОКАЯ ШАПКА-БАННЕР -->
 <div align="center">
-  <img src="images/profile-pic.jpg" alt="Баннер" style="width: 100%; height: 300px; object-fit: cover; border-radius: 0;"/>
+  <img src="images/profile-pic.jpg" alt="Баннер" style="width: 100%; height: 150px; object-fit: cover; border-radius: 0;"/>
 </div>
 
 
@@ -12,7 +12,7 @@
 
 ## 👋 Коротко обо мне
 Привет! Я начинающий DevOps-инженер. Ранее работал электриком и электромонтажником, собирал щиты управления и занимался автоматизацией оборудования. 
-Этот опыт работы с реальными системами и внимательность к деталям помогли мне в новой профессии.
+Этот опыт работы с реальными системами и внимательность к дета>
 Сейчас развиваюсь в IT и фокусируюсь на автоматизации инфраструктуры, контейнеризации и CI/CD.
 
 ---
@@ -50,8 +50,8 @@
 ---
 
 ## 📜 Сертификаты и обучение
-- Нетология — курс «DevOps-инженер» (курсовая и дипломная работы представлены выше).
-[certificates](https://drive.google.com/drive/folders/198_8obXqmbAYV2dejvGyJ_E6s6tjhSyH?usp=sharing)
+- Нетология — курс «DevOps-инженер с нуля» (курсовая и дипломная работы представлены выше).
+- [certificates](https://drive.google.com/drive/folders/198_8obXqmbAYV2dejvGyJ_E6s6tjhSyH?usp=sharing)
 
 ---
 
