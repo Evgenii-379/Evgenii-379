@@ -7,6 +7,7 @@
 **Контакты:**
 - 📧 Email: Evgeniy_0307@mail.ru
 - 💻 GitHub: [Evgenii-379](https://github.com/Evgenii-379)
+- [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Evgenii_3_7)
 
 ---
 
