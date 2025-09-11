@@ -2,11 +2,8 @@
 
 <!-- ШИРОКАЯ ШАПКА-БАННЕР -->
 <div align="center">
-  <img src="images/profile-pic.jpg" alt="Баннер" style="width: 100%; height: auto; border-radius: 0;"/>
+  <img src="images/profile-pic.jpg" alt="Баннер" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0;"/>
 </div>
-
-<br>
-
 
 
 **Контакты:**
