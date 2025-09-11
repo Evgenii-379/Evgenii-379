@@ -1,14 +1,12 @@
-# Евгений — Junior DevOps Engineer
-
 <!-- ШИРОКАЯ ШАПКА-БАННЕР -->
 <div align="center">
-  <img src="images/profile-pic.jpg" alt="Баннер" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0;"/>
+  <img src="images/profile-pic.jpg" alt="Баннер" style="width: 100%; height: 150px; object-fit: cover; border-radius: 0;"/>
 </div>
 
 
 **Контакты:**
-📧 Email: Evgeniy_0307@mail.ru
-💻 GitHub: [Evgenii-379](https://github.com/Evgenii-379)
+- 📧 Email: Evgeniy_0307@mail.ru
+- 💻 GitHub: [Evgenii-379](https://github.com/Evgenii-379)
 
 ---
 
@@ -53,7 +51,7 @@
 
 ## 📜 Сертификаты и обучение
 - Нетология — курс «DevOps-инженер» (курсовая и дипломная работы представлены выше).
-*(сюда можно добавить ссылки или сканы в папку `docs/`)*
+[certificates](https://drive.google.com/drive/folders/198_8obXqmbAYV2dejvGyJ_E6s6tjhSyH?usp=sharing)
 
 ---
 
