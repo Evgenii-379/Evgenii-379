@@ -2,6 +2,8 @@
 <div align="center">
   <img src="images/profile-pic.jpg" alt="Баннер" style="width: 100%; height: 250px; object-fit: cover; border-radius: 0;"/>
 </div>
+---
+
 
 
 
