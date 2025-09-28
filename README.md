@@ -35,7 +35,8 @@
 - **Облака и IaC:** Yandex Cloud (YC), AWS, Terraform, Ansible
 - **Контейнеризация и оркестрация:** Docker, Kubernetes
 - **Мониторинг и логи:** Zabbix, Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana)
-- **Языки и ОС:** Python, Bash, Linux (Ubuntu, Debian, CentOS)
+- **Языки:** Python, Bash
+- **OC:** Linux (Ubuntu, Debian, CentOS)
 - **Базы данных и веб-серверы:** PostgreSQL, MySQL, Nginx
 - **Анализ сетей и диагностика:** Wireshark, понимание сетевых моделей (TCP/IP), диагностика HTTP/HTTPS-запросов
 
