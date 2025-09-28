@@ -3,6 +3,7 @@
   <img src="images/profile-pic.jpg" alt="Баннер" style="width: 100%; height: 250px; object-fit: cover; border-radius: 0;"/>
 </div>
 
+#                           👋 **Привет! Меня зовут Евгений Вуколов**
 
 **Контакты:**
 - 📧 Email: Evgeniy_0307@mail.ru
@@ -12,7 +13,7 @@
 ---
 
 ## 👋 Коротко обо мне
-Привет! Я начинающий DevOps-инженер. Ранее работал электриком и электромонтажником, собирал щиты управления и занимался автоматизацией оборудования. 
+Я DevOps-инженер. Ранее занимался автоматизацией оборудования. 
 Этот опыт работы с реальными системами и внимательность к деталям помогли мне в новой профессии.
 Сейчас развиваюсь в IT и фокусируюсь на автоматизации инфраструктуры, контейнеризации и CI/CD.
 
@@ -24,7 +25,7 @@
 - **Облака и IaC:** Yandex Cloud (YC), AWS, Terraform, Ansible
 - **Контейнеризация и оркестрация:** Docker, Kubernetes
 - **Мониторинг и логи:** Zabbix, Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana)
-- **Языки и ОС:** Python, Bash, Linux (Ubuntu, Debian, CentOS), SSH
+- **Языки и ОС:** Python, Bash, Linux (Ubuntu, Debian, CentOS)
 - **Базы данных и веб-серверы:** PostgreSQL, MySQL, Nginx
 - **Анализ сетей и диагностика:** Wireshark, понимание сетевых моделей (TCP/IP), диагностика HTTP/HTTPS-запросов
 
